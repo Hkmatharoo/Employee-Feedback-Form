@@ -1,0 +1,13 @@
+body{
+    background:linear-gradient(360deg, #99f1ea, #1b8998);
+    background-size: cover;
+}
+.align{
+    text-align: center;
+    padding: 20px;
+    margin: 100px;
+}
+.text{
+    font-size: 20px;
+    border-radius: 20px;
+}
